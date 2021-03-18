@@ -1,0 +1,55 @@
+{
+    "id": 1,
+    "farmId": 1,
+    "penId": 1,
+    "floorId": 1,
+    "harvestResult": {
+        "averageWeight": 1.6,
+        "harvestProgress": 0.4
+    },
+    "penStatus": {
+        "effectiveTemperature": 21.0,
+        "ihs": 150.08
+    },
+    "growthTimeline": {
+        "currentGrowthDays": 4
+    },
+    "todayWeather": {
+        "humidity": 35,
+        "temperature": 20.7,
+        "wind": 72
+    },
+    "fanController": {
+        "value": 72
+    },
+    "zonaList": [
+        {
+            "name": "Zona A",
+            "temperature": 22.5,
+            "humidity": 45,
+            "carbonDioxide": 30,
+            "ammonia": 32
+        },
+        {
+            "name": "Zona B",
+            "temperature": 21.1,
+            "humidity": 41,
+            "carbonDioxide": 20,
+            "ammonia": 12
+        },
+        {
+            "name": "Zona C",
+            "temperature": 19,
+            "humidity": 10,
+            "carbonDioxide": 10,
+            "ammonia": 17
+        },
+        {
+            "name": "Zona D",
+            "temperature": 25,
+            "humidity": 20,
+            "carbonDioxide": 51,
+            "ammonia": 9
+        }
+    ]
+}

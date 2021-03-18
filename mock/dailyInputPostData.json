@@ -1,0 +1,8 @@
+{
+    "samplingWeight": 12,
+    "harvest": 5,
+    "dead": 2,
+    "feedDailyIntake": 200,
+    "rejected": 3,
+    "waterDailyIntake": 100
+}

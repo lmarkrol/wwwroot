@@ -1,0 +1,97 @@
+{
+    "growthTimeline": {
+        "currentGrowthDays": 4,
+        "maxGrowthDays": 30
+    },
+    "standardCmf": 4,
+    "population": {
+        "initialCount": 25000,
+        "currentCount": 24000,
+        "deadCount": 1000
+    },
+    "averageBodyWeight": {
+        "target": 589,
+        "dailyGain": 9,
+        "currentValue": 588
+    },
+    "temperature": 29,
+    "fanCapacity": 24000,
+    "minWindSpeed": 1.39,
+    "adjWindSpeed": 0,
+    "maxWindSpeed": 3,
+    "targetWindSpeed": 1.39,
+    "humidity": {
+        "value": 30,
+        "minValue": 0,
+        "maxValue": 100,
+        "standard": 100
+    },
+    "fanPotency": {
+        "value": 100,
+        "minValue": 0,
+        "maxValue": 100,
+        "standard": 100
+    },
+    "housePotency": {
+        "value": 100,
+        "minValue": 0,
+        "maxValue": 100,
+        "standard": 100
+    },
+    "tEffStandard": {
+        "value": 33,
+        "minValue": 15,
+        "maxValue": 40,
+        "standard": 30
+    },
+    "history": [
+        {
+            "temperature": 30,
+            "humidity": 30,
+            "fanCapacity": 24000,
+            "fanPotency": 100,
+            "housePotency": 100,
+            "minWindSpeed": 1.39,
+            "tEffStandard": 33,
+            "adjWindSpeed": 0,
+            "maxWindSpeed": 3,
+            "targetWindSpeed": 1.39
+        },
+        {
+            "temperature": 30,
+            "humidity": 30,
+            "fanCapacity": 24000,
+            "fanPotency": 100,
+            "housePotency": 100,
+            "minWindSpeed": 1.39,
+            "tEffStandard": 33,
+            "adjWindSpeed": 0,
+            "maxWindSpeed": 3,
+            "targetWindSpeed": 1.39
+        },
+        {
+            "temperature": 30,
+            "humidity": 30,
+            "fanCapacity": 24000,
+            "fanPotency": 100,
+            "housePotency": 100,
+            "minWindSpeed": 1.39,
+            "tEffStandard": 33,
+            "adjWindSpeed": 0,
+            "maxWindSpeed": 3,
+            "targetWindSpeed": 1.39
+        },
+        {
+            "temperature": 30,
+            "humidity": 30,
+            "fanCapacity": 24000,
+            "fanPotency": 100,
+            "housePotency": 100,
+            "minWindSpeed": 1.39,
+            "tEffStandard": 33,
+            "adjWindSpeed": 0,
+            "maxWindSpeed": 3,
+            "targetWindSpeed": 1.39
+        }
+    ]
+}

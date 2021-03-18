@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "_id": "5d9c97a1ec65d20012113f0f",
+            "firstName": "Andi",
+            "lastName": "Wijaya",
+            "phoneNumber": "08212123312",
+            "farm": "Vile",
+            "city": "Depok",
+            "address": "Margonda",
+            "type": "Operator",
+            "__v": 0
+        },
+        {
+            "_id": "5d9c97a1ec65d20012113f01",
+            "firstName": "Lukman",
+            "lastName": "Hilmi",
+            "phoneNumber": "081266464790",
+            "farm": "Cimaung",
+            "city": "Serang",
+            "address": "Jl. Pegangsaan Timur no 51",
+            "type": "Operator",
+            "__v": 0
+        },
+        {
+            "_id": "5d9c97a1ec65d20012113f02",
+            "firstName": "Hogi",
+            "lastName": "Iryandika",
+            "phoneNumber": "081266461234",
+            "farm": "Cimaung",
+            "city": "Serang",
+            "address": "Jl. Pegangsaan Barat no 17",
+            "type": "Operator",
+            "__v": 0
+        }
+    ],
+    "total": 3
+}

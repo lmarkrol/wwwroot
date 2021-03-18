@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "_id": "5e44ef416da5b629d385bc2c",
+      "penId": "5e40137dc7d3d54e550bf404",
+      "averageSpeedFan": 30,
+      "auto": true,
+      "fanControllers": [
+        {
+          "_id": "5e44ef416da5b629d385bc2f",
+          "id": 1,
+          "active": false
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc2e",
+          "id": 2,
+          "active": false
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc2d",
+          "id": 3,
+          "active": true
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc3e",
+          "id": 4,
+          "active": false
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc4e",
+          "id": 5,
+          "active": false
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc5e",
+          "id": 6,
+          "active": false
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc6e",
+          "id": 7,
+          "active": false
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc7e",
+          "id": 8,
+          "active": false
+        },
+        {
+          "_id": "5e44ef416da5b629d385bc8e",
+          "id": 9,
+          "active": false
+        }
+      ],
+      "timestamp": "2020-02-13T06:40:01.994Z"
+    }
+  ],
+  "total": 1
+}

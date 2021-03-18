@@ -1,0 +1,9 @@
+{
+    "devName": "All Device",
+    "name": "All Zone",
+    "temperature": 29.625,
+    "humidity": 68.775,
+    "carbonDioxide": 296.25,
+    "ammonia": 256.875,
+    "windSpeed": 52.375
+}

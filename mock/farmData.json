@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "_id": "5e2daf300d1d7c4df4288a1c",
+      "name": "Cimaung",
+      "code": "CMG",
+      "usedPen": 7,
+      "emptyPen": 4,
+      "totalPen": 10
+    },
+    {
+      "_id": "5e2e5cbd59dd940ea67ce81a",
+      "name": "Sukabumi",
+      "code": "SKB",
+      "usedPen": 4,
+      "emptyPen": 6,
+      "totalPen": 8
+    }
+  ],
+  "total": 2
+}

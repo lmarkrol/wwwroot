@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "_id": "5e2e5b1659dd940ea67ce819",
+      "number": "CMS0101",
+      "round": 1,
+      "checkInDate": "2016-02-20",
+      "endDate": "2016-03-25",
+      "isUsed": true
+    },
+    {
+      "_id": "5e2e5b1659dd940ea67ce629",
+      "number": "CMS0102",
+      "round": 1,
+      "checkInDate": "2016-02-20",
+      "endDate": "2016-03-25",
+      "isUsed": false
+    }
+  ],
+  "total": 2
+}

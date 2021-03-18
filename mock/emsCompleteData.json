@@ -1,0 +1,360 @@
+{
+    "growthTimeline": {
+        "isInProgress": true,
+        "currentGrowthDays": 4,
+        "maxGrowthDays": 30
+    },
+    "population": {
+        "initialCount": 25000,
+        "currentCount": 24000,
+        "deadCount": 1000
+    },
+    "averageBodyWeight": {
+        "target": 589,
+        "dailyGain": 9,
+        "currentValue": 588
+    },
+    "windSpeed": {
+        "minimumSpeed": 0.5,
+        "maximumSpeed": 2.0,
+        "value": 1.5
+    },
+    "temperature": {
+        "value": 29,
+        "standard": 30,
+        "maxValue": 100
+    },
+    "temperatureEffective": {
+        "value": 29,
+        "standard": 30,
+        "maxValue": 100
+    },
+    "humidity": {
+        "value": 45,
+        "minStandard": 60,
+        "maxStandard": 70,
+        "maxValue": 100
+    },
+    "ihs": {
+        "value": 170.0,
+        "minValue": 160.0,
+        "maxValue": 180.0,
+        "standard": 160.0
+    },
+    "ip": {
+        "value": 244.35,
+        "standard": 300,
+        "maxValue": 350
+    },
+    "feedDailyIntake": {
+        "value": 123.00,
+        "standard": 123,
+        "maxValue": 200
+    },
+    "waterDailyIntake": {
+        "value": 3498,
+        "standard": 123,
+        "maxValue": 200
+    },
+    "fcr": {
+        "value": 0.992,
+        "standard": 6.00,
+        "maxValue": 7.00
+    },
+    "carbonDioxide": {
+        "value": 100,
+        "standard": 800,
+        "maxValue": 1000
+    },
+    "ammonia": {
+        "value": 8,
+        "standard": 10,
+        "maxValue": 1000
+    },
+    "lux": {
+        "value": 25,
+        "standard": 30,
+        "maxValue": 120
+    },
+    "depletion": {
+        "value": 0.13,
+        "standard": 3,
+        "maxValue": 4
+    },
+    "fe": {
+        "value": 230,
+        "standard": 230,
+        "maxValue": 300
+    },
+    "cummFeedIntake": {
+        "value": 1234,
+        "standard": 1234,
+        "maxValue": 2000
+    },
+    "cummWaterIntake": {
+        "value": 247,
+        "standard": 247,
+        "maxValue": 300
+    },
+    "ratioCfiCwi": {
+        "value": 1.5,
+        "standard": 2.0
+    },
+    "environmentChart": {
+        "temperature": [
+            {
+                "hour": 0,
+                "value": 10
+            },
+            {
+                "hour": 1,
+                "value": 15
+            },
+            {
+                "hour": 2,
+                "value": 9
+            },
+            {
+                "hour": 3,
+                "value": 20
+            }
+        ],
+        "temperatureStandard": [
+            {
+                "hour": 0,
+                "value": 9
+            },
+            {
+                "hour": 1,
+                "value": 10
+            },
+            {
+                "hour": 2,
+                "value": 11
+            },
+            {
+                "hour": 3,
+                "value": 8
+            }
+        ],
+        "humidity": [
+            {
+                "hour": 0,
+                "value": 10
+            },
+            {
+                "hour": 1,
+                "value": 15
+            },
+            {
+                "hour": 2,
+                "value": 9
+            },
+            {
+                "hour": 3,
+                "value": 20
+            }
+        ],
+        "humidityStandard": [
+            {
+                "hour": 0,
+                "value": 9
+            },
+            {
+                "hour": 1,
+                "value": 10
+            },
+            {
+                "hour": 2,
+                "value": 11
+            },
+            {
+                "hour": 3,
+                "value": 8
+            }
+        ],
+        "carbonDioxide": [
+            {
+                "hour": 0,
+                "value": 10
+            },
+            {
+                "hour": 1,
+                "value": 15
+            },
+            {
+                "hour": 2,
+                "value": 9
+            },
+            {
+                "hour": 3,
+                "value": 20
+            }
+        ],
+        "carbonDioxideStandard": [
+            {
+                "hour": 0,
+                "value": 9
+            },
+            {
+                "hour": 1,
+                "value": 10
+            },
+            {
+                "hour": 2,
+                "value": 11
+            },
+            {
+                "hour": 3,
+                "value": 8
+            }
+        ],
+        "ammonia": [
+            {
+                "hour": 0,
+                "value": 10
+            },
+            {
+                "hour": 1,
+                "value": 15
+            },
+            {
+                "hour": 2,
+                "value": 9
+            },
+            {
+                "hour": 3,
+                "value": 20
+            }
+        ],
+        "ammoniaStandard": [
+            {
+                "hour": 0,
+                "value": 9
+            },
+            {
+                "hour": 1,
+                "value": 10
+            },
+            {
+                "hour": 2,
+                "value": 11
+            },
+            {
+                "hour": 3,
+                "value": 8
+            }
+        ],
+        "lux": [
+            {
+                "hour": 0,
+                "value": 10
+            },
+            {
+                "hour": 1,
+                "value": 15
+            },
+            {
+                "hour": 2,
+                "value": 9
+            },
+            {
+                "hour": 3,
+                "value": 20
+            }
+        ],
+        "luxStandard": [
+            {
+                "hour": 0,
+                "value": 9
+            },
+            {
+                "hour": 1,
+                "value": 10
+            },
+            {
+                "hour": 2,
+                "value": 11
+            },
+            {
+                "hour": 3,
+                "value": 8
+            }
+        ]
+    },
+    "performanceChart": {
+        "isActive": true,
+        "cummFeedIntake": [
+            {
+                "day": 0,
+                "value": 10
+            },
+            {
+                "day": 1,
+                "value": 15
+            },
+            {
+                "day": 2,
+                "value": 25
+            },
+            {
+                "day": 3,
+                "value": 50
+            }
+        ],
+        "cummWaterIntake": [
+            {
+                "day": 0,
+                "value": 15
+            },
+            {
+                "day": 1,
+                "value": 25
+            },
+            {
+                "day": 2,
+                "value": 40
+            },
+            {
+                "day": 3,
+                "value": 80
+            }
+        ],
+        "averageBodyWeight": [
+            {
+                "day": 0,
+                "value": 20
+            },
+            {
+                "day": 1,
+                "value": 25
+            },
+            {
+                "day": 2,
+                "value": 30
+            },
+            {
+                "day": 3,
+                "value": 35
+            }
+        ],
+        "standard": [
+            {
+                "day": 0,
+                "value": 10
+            },
+            {
+                "day": 1,
+                "value": 25
+            },
+            {
+                "day": 2,
+                "value": 35
+            },
+            {
+                "day": 3,
+                "value": 70
+            }
+        ]
+    }
+}

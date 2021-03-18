@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.488" height="8.785" viewBox="0 0 15.488 8.785">
+    <defs>
+        <style>
+            .cls-1{fill:#afafaf}
+        </style>
+    </defs>
+    <path id="caret-down-solid" d="M12.337 192h13.4a1.04 1.04 0 0 1 .735 1.776l-6.7 6.7a1.044 1.044 0 0 1-1.474 0l-6.7-6.7a1.04 1.04 0 0 1 .739-1.776z" class="cls-1" transform="translate(-11.295 -192)"/>
+</svg>

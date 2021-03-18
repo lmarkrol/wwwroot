@@ -1,0 +1,12 @@
+{
+    "dayOld": 1,
+    "requiredTemperature": 33,
+    "maxIhs": 160,
+    "requiredHumidity": {
+        "minThreshold": 60,
+        "maxThreshold": 60
+    },
+    "requiredWindSpeed": 80,
+    "maxCarbonDioxide": 3000,
+    "maxAmmonia": 10
+}

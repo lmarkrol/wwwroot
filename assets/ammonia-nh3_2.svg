@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.708" height="14.734" viewBox="0 0 17.708 14.734">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff}
+        </style>
+    </defs>
+    <g id="ammonia-nh3" transform="translate(.504 .507)">
+        <path id="Path_101" d="M79.551 575.9a1.747 1.747 0 1 0 .5-2.419 1.746 1.746 0 0 0-.5 2.419zm2.437-1.6a1.167 1.167 0 1 1-1.616-.337 1.167 1.167 0 0 1 1.616.337z" class="cls-1" data-name="Path 101" transform="translate(-79.264 -563.078)"/>
+        <path id="Path_102" d="M231.384 508.585l.376.573-2.817 1.842-.376-.574z" class="cls-1" data-name="Path 102" transform="translate(-225.711 -499.707)"/>
+        <path id="Path_103" d="M257.26 50.357a2.44 2.44 0 1 0 2.44 2.443 2.439 2.439 0 0 0-2.44-2.443zm0 4.13a1.691 1.691 0 1 1 1.691-1.691 1.689 1.689 0 0 1-1.691 1.691zm-3.487-9.871a1.747 1.747 0 1 0 2.284.941 1.746 1.746 0 0 0-2.284-.941zm1.119 2.69a1.167 1.167 0 1 1 .631-.633 1.166 1.166 0 0 1-.631.633z" class="cls-1" data-name="Path 103" transform="translate(-249.379 -44.481)"/>
+        <path id="Path_104" d="M360.583 206.87l-.633.263-1.294-3.11.633-.263z" class="cls-1" data-name="Path 104" transform="translate(-353.312 -200.713)"/>
+        <path id="Path_105" d="M773.234 430.39a1.747 1.747 0 1 0-1.953 1.512 1.746 1.746 0 0 0 1.953-1.512zm-2.89-.369a1.167 1.167 0 1 1 1.01 1.306 1.166 1.166 0 0 1-1.01-1.307z" class="cls-1" data-name="Path 105" transform="translate(-756.546 -421.077)"/>
+        <path id="Path_106" d="M603.73 470.072l.087-.68 3.341.427-.087.68z" class="cls-1" data-name="Path 106" transform="translate(-593.697 -461.264)"/>
+    </g>
+</svg>
